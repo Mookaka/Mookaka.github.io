@@ -70,6 +70,7 @@ article .article-content,
 article .featured-media {
   margin: 4rem 0;
   font-size: 1.6rem;
+  text-align: right;
   color: #424242;
 }
 article .article-excerpt img,
